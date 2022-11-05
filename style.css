@@ -1,0 +1,298 @@
+.be:hover{
+    background-color: blanchedalmond;
+}
+.center{
+    width: 50% auto;
+    font-size: xx-large;
+    margin: 0 auto ;
+}
+.purple:hover{
+    background-color: aqua;
+}
+.yellow:hover{
+    background-color: darkorange;
+}
+.n:hover{
+    background-color: bisque;
+}
+.o:hover{
+    background-color: gray;
+}
+.f:hover{
+    background-color: yellow;
+}
+.ne:hover{
+    background-color: lightblue;
+}
+.li:hover{
+    background-color: lightcoral;
+}
+.he:hover{
+    background-color: lightseagreen;
+}
+.h:hover{
+    background-color: darkgoldenrod;
+}
+.na:hover{
+    background-color: lightcoral;
+}
+.mg:hover{
+    background-color: darkolivegreen;
+}
+.ai:hover{
+    background-color: lightgreen;
+}
+.si:hover{
+    background-color:plum;
+}
+.p:hover{
+    background-color: darkorange;
+}
+.s:hover{
+    background-color: yellowgreen;
+}
+.cl:hover{
+    background-color: orangered;
+}
+.ar:hover{
+    background-color: aquamarine;
+}
+.k:hover{
+    background-color: indianred;
+}
+.ca:hover{
+    background-color: lightgreen;
+}
+.sc:hover{
+    background-color: lightcoral;
+}
+.ti:hover{
+    background-color: brown;
+}
+.v:hover{
+    background-color: yellow;
+}
+.cr:hover{
+    background-color: lightsalmon;
+}
+.mn:hover{
+    background-color: indianred;
+}
+.fe:hover{
+    background-color: darkgoldenrod;
+}
+.co:hover{
+    background-color: hotpink;
+}
+.ni:hover{
+    background-color: burlywood;
+}
+.cu:hover{
+    background-color: antiquewhite;
+}
+.zn:hover{
+    background-color: aquamarine;
+}
+.ga:hover{
+    background-color: blueviolet;
+}
+.ge:hover{
+    background-color: bisque;
+}
+.as:hover{
+    background-color: darkgreen;
+}
+.se:hover{
+    background-color: lightgreen;
+}
+.br:hover{
+    background-color: yellow;
+}
+.kr:hover{
+    background-color: aquamarine;
+}
+.rb:hover{
+    background-color: lightcoral;
+}
+.sr:hover{
+    background-color: darkcyan;
+}
+.y:hover{
+    background-color: orange;
+}
+.zr:hover{
+    background-color: yellowgreen;
+}
+.nb:hover{
+    background-color: brown;
+}
+.mo:hover{
+    background-color: blueviolet;
+}
+.tc:hover{
+    background-color: lightcoral;
+}
+.ru:hover{
+    background-color: aqua;
+}
+.rh:hover{
+    background-color: palevioletred;
+}
+.pd:hover{
+    background-color: lightpink;
+}
+.ag:hover{
+    background-color: yellowgreen;
+}
+.cd:hover{
+    background-color: darkgoldenrod;
+}
+.in:hover{
+    background-color: lightgreen;
+}
+.sn:hover{
+    background-color: greenyellow;
+}
+.sb:hover{
+    background-color: darkorange;
+}
+.te:hover{
+    background-color: greenyellow;
+}
+.i:hover{
+    background-color: lightsalmon;
+}
+.xe:hover{
+    background-color: aqua;
+}
+.cs:hover{
+    background-color:yellow ;
+}
+.ba:hover{
+    background-color: darkolivegreen;
+}
+.pink:hover{
+background-color: lightslategray;
+}
+.hf:hover{
+    background-color: yellow;
+}
+.ta:hover{
+    background-color: brown;
+}
+.w:hover{
+    background-color: yellow;
+}
+.re:hover{
+    background-color: darkgoldenrod;
+}
+.os:hover{
+    background-color: lightsalmon;
+}
+.ir:hover{
+    background-color: yellowgreen;
+}
+.pt:hover{
+    background-color: lightgoldenrodyellow;
+}
+.au:hover{
+    background-color: pink;
+}
+.hg:hover{
+    background-color: antiquewhite;
+}
+.ti1:hover{
+    background-color: blueviolet;
+}
+.pb:hover{
+    background-color: burlywood;
+}
+.bi:hover{
+    background-color: greenyellow;
+}
+.po:hover{
+    background-color: darkolivegreen;
+}
+.at:hover{
+    background-color: darkorange;
+}
+.rn:hover{
+    background-color: blueviolet;
+}
+.fr:hover{
+    background-color: lightcoral;
+}
+.ra:hover{
+    background-color:grey;
+}
+.td1:hover{
+    background-color: lightcoral;
+}
+.rf:hover{
+    background-color:yellow;
+}
+.db:hover{
+    background-color: darkgoldenrod;
+}
+.sg:hover{
+    background-color:gold;
+}
+.bh:hover{
+    background-color: lightsalmon;
+}
+.hs:hover{
+    background-color:grey;
+}
+.mt:hover{
+    background-color:violet;
+}
+.ds:hover{
+    background-color:orange;
+}
+.rg:hover{
+    background-color:greenyellow;
+}
+.cn:hover{
+    background-color: lightcoral;
+}
+.unt:hover{
+    background-color:lightpink;
+}
+.uuq:hover{
+    background-color: burlywood;
+}
+.uup:hover{
+    background-color: blanchedalmond;
+}
+.uuh:hover{
+    background-color:yellow;
+}
+.uus:hover{
+    background-color: khaki;
+}
+.uuo:hover{
+    background-color:violet;
+}
+.first{
+border: none;
+}
+.second{
+    border: none;
+    }
+    .third{
+        border: none;
+        }
+        .table{
+        color: grey(10, 10, 259);
+    text-shadow: 1px 0px 1px;
+    border: 0px outset red;
+    margin: 10px auto 10px auto;
+}
+h1{
+    color: grey(10, 20, 259);
+    text-shadow: 1px 1px 3px;
+}
+h1:hover{
+   
+    text-shadow: 2px 2px 3px darkorange;
+}
